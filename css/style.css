@@ -129,7 +129,7 @@ nav img:hover {
 .sub_header{
     height: 65vh;
     width: 100%;
-    background-image: linear-gradient(rgba(148, 161, 172, 0.7), rgba(148, 161, 172, 0.7)), url(../images/branches_page/branches_banner.jpg) ;
+    background-image: linear-gradient(rgba(148, 161, 172, 0.7), rgba(148, 161, 172, 0.7)), url(../images/branches_page/banner.jpeg) ;
     background-size: cover;
     background-position: center;
     text-align: center;
